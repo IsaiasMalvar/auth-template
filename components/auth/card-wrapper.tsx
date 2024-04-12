@@ -7,6 +7,8 @@ import {
   CardHeader,
 } from "@/components/ui/card";
 import { Header } from "./header";
+import { Social } from "./social";
+import { BackButton } from "./back-button";
 
 interface CardWrapperProps {
   children: React.ReactNode;
@@ -15,7 +17,7 @@ interface CardWrapperProps {
   backButtonHref: string;
   showSocial?: boolean;
 }
-
+const tres = "Ok";
 export const CardWrapper = ({
   backButtonHref,
   backButtonLabel,
@@ -29,6 +31,14 @@ export const CardWrapper = ({
         <Header labels={headerLabel} />
       </CardHeader>
       <CardContent>{children}</CardContent>
+      {showSocial && (
+        <CardFooter>
+          <Social />
+        </CardFooter>
+      )}
+      <CardFooter>
+        <BackButton href={backButtonHref} label={backButtonLabel} />
+      </CardFooter>
     </Card>
   );
 };
