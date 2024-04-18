@@ -30,8 +30,8 @@ export const login = async (values: z.infer<typeof LoginSchema>) => {
     );
 
     await sendVerificationEmail(
-      verificationToken.token,
-      verificationToken.email
+      verificationToken.email,
+      verificationToken.token
     );
 
     return { success: "Confirmation email sent!" };

@@ -1,4 +1,4 @@
-export const publicRoutes = ["/"];
+export const publicRoutes = ["/", "/new-verification"];
 
 /* An array of routs that are used for authentication
 These routes will redirect logged in users to /settings */
