@@ -30,4 +30,4 @@ https://auth-template-nu.vercel.app/
 
 ## Acknowledgements
 
-Special thanks to [@AntonioErdeljac] (https://www.github.com/AntonioErdeljac) for his invaluable tutorial, which provided crucial guidance and assistance throughout the development of this project. Your contributions were instrumental in the completion of this authentication template!
+Special thanks to [Antonio Erdeljac] (https://www.github.com/AntonioErdeljac) for his invaluable tutorial, which provided crucial guidance and assistance throughout the development of this project. Your contributions were instrumental in the completion of this authentication template!
