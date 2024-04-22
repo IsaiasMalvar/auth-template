@@ -6,10 +6,6 @@ This template provides a foundation for building authentication systems with fea
 
 https://auth-template-nu.vercel.app/
 
-## Screenshots
-
-![Uploading Captura de pantalla 2024-04-22 212748.png…]()
-
 
 ## Features
 
@@ -34,4 +30,4 @@ https://auth-template-nu.vercel.app/
 
 ## Acknowledgements
 
-Special thanks to Antonio Erdeljac for his invaluable tutorial, which provided crucial guidance and assistance throughout the development of this project. Your contributions were instrumental in the completion of this authentication template!
+Special thanks to [@AntonioErdeljac] (https://www.github.com/AntonioErdeljac) for his invaluable tutorial, which provided crucial guidance and assistance throughout the development of this project. Your contributions were instrumental in the completion of this authentication template!
