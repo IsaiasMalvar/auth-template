@@ -8,6 +8,9 @@ https://auth-template-nu.vercel.app/
 
 ## Screenshots
 
+![Uploading Captura de pantalla 2024-04-22 212748.png…]()
+
+
 ## Features
 
 - Email Sign-In: Users can authenticate using their email and password.
